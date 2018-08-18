@@ -1,6 +1,5 @@
 # ProjectsFromMyStudents
 ## (Proyectos de mis estudiantes)
-========
 
   Compilation of some of the projects my students have done using the C
   programming language.
